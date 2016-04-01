@@ -1,2 +1,3 @@
-# spi-gulp-tasks
-Gulp task for Spithemes project
+# Spithemes Gulp tasks
+
+Gulp task for Spithemes' projects
